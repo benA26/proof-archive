@@ -1,0 +1,9 @@
+# Selection-rule amendment anchor — Top-3 Picker
+
+date:                  2026-07-05
+description:           Selection rule amended: one pick per race (win and place sets). Applies from 2026-07-06 onward; 2026-07-05 and earlier reports were produced under the previous rule (top-3 by probability, same-race duplicates possible).
+pick.py sha256 BEFORE: not recorded (pre-change hash was not captured before applying the diff)
+pick.py sha256 AFTER:  9287F0CAD02F8146E3E56B2C074C8C4C133DAF5E5B51240BFE17F2185F3400A5
+generated:             2026-07-05T20:55:50Z (UTC)
+
+NOTE: external proof anchor candidate — not external proof until pushed to remote (the external timestamp is the push receipt time on the remote, not the local commit time, which is forgeable via git commit --date).

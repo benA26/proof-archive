@@ -1,0 +1,15 @@
+# External proof anchor candidate — Top-3 Picker 2026-07-06
+
+date:              2026-07-06
+archive_timestamp: 2026-07-06 10:12:03 GMT Summer Time (local)
+picks_sha256:      ee4e53ddb4feef284b2913fe6c34147bb2a9ce5ffcc778a0aed6a61f54c8bce4
+card_sha256:       9a26a89be6ac2d8e30a3e95e5dea4ac4b7f106ea5f17897edef257d84075a294
+archive_path:      C:/Users/benat/OneDrive/Dokumente/Claude/Projects/top3-picker/output/published_archive/top3_2026-07-06.md
+archive_sha256:    f24452e7ebd28c1fef014a43a7f264ff3fb9f8a472fb987739cb6483c20faba5
+generated:         2026-07-07 23:41:03 GMT Summer Time (local)
+
+NOTE: external proof anchor candidate — not external proof until pushed to remote (the external timestamp is the push receipt time on the remote, not the local commit time, which is forgeable via git commit --date)
+
+=== LATE ANCHOR - OPERATOR DISCLAIMER (recorded 2026-07-07) ===
+LATE ANCHOR - pushed 2026-07-07 after racing settled. The report was published pre-race per local timestamp (10:12:03 GMT Summer Time) but was NOT externally anchored before racing (travel period; no network path to the GitHub remote). This anchor proves file existence as of the push date only, NOT pre-race publication. 2026-07-06 does NOT count as clean pre-race proof; it is EXCLUDED from the clean pre-race proof record. Same honest treatment as the 2026-07-04 late anchor.
+RULE-CHANGE BOUNDARY: 2026-07-06 is the FIRST day produced under the one-per-race WIN rule (see rule_change_2026-07-06_one_per_race_win.md). The published WIN set in this archive (Victory Gold / Alterity / Keep It Classic) is the correct one-per-race set. A same-day forward_log correction is documented in that rule-change note's addendum: scripts/log_picks.py had carried the OLD duplicate-allowing rule and had logged Queen's Hame as a same-race duplicate of Alterity; this was corrected the SAME day, pre-race, before any 2026-07-06 race ran. The published archive itself was always correct.

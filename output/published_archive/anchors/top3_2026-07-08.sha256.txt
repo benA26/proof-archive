@@ -1,0 +1,14 @@
+# External proof anchor candidate — Top-3 Picker 2026-07-08
+
+date:              2026-07-08
+archive_timestamp: 2026-07-08 07:05:00 GMT Summer Time (local)
+picks_sha256:      f53ed24334ba16308c4bbb33953a89c13cab05b8b1b79cbe564fee489aec157a
+card_sha256:       4761d1d155906e53a4f350327422150065c10f65bea0e4094d3901163ddfc852
+archive_path:      C:/Users/benat/OneDrive/Dokumente/Claude/Projects/top3-picker/output/published_archive/top3_2026-07-08.md
+archive_sha256:    07236ddbe080eef5655aa82121259e50873bb6d43bbe0a84e3367441d5f0c4d8
+generated:         2026-07-09 23:12:41 GMT Summer Time (local)
+
+NOTE: external proof anchor candidate — not external proof until pushed to remote (the external timestamp is the push receipt time on the remote, not the local commit time, which is forgeable via git commit --date)
+
+=== LATE ANCHOR - OPERATOR DISCLAIMER (recorded 2026-07-09) ===
+LATE ANCHOR - pushed after racing settled. The report was published pre-race per local timestamp (07:05:00 GMT Summer Time; first race 14:00) and the daily run log completed OK with protected files unchanged. This anchor proves file existence as of the push date only, NOT externally-verifiable pre-race publication. 2026-07-08 does NOT count as clean pre-race proof; it is EXCLUDED from the clean pre-race proof record.

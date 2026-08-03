@@ -1,0 +1,4 @@
+# These are integrity-anchored proof files: their bytes are hashed and recorded in the anchors.
+# Disable ALL line-ending / text conversion so every file is stored and served byte-for-byte exactly
+# as published — otherwise a CRLF->LF rewrite would change the hash and break anchor verification.
+* -text

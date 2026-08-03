@@ -1,0 +1,11 @@
+# External proof anchor candidate — Top-3 Picker 2026-08-01
+
+date:              2026-08-01
+archive_timestamp: 2026-08-01 07:04:23 GMT Summer Time (local)
+picks_sha256:      26ad72b9eb3a1fd68508bec8e7021ea165feedbdb1166400c162ed63a3cf6070
+card_sha256:       44d5d8e413e8a313e4b67640fc70f5b2ba442d9fdf6d4151a6f12fe29efff5c6
+archive_path:      C:/Users/benat/OneDrive/Dokumente/Claude/Projects/top3-picker/output/published_archive/top3_2026-08-01.md
+archive_sha256:    4e175246f3e9690daf7985d55b3336f73dac90c77e9a742978419054d1ec167e
+generated:         2026-08-01 07:04:23 GMT Summer Time (local)
+
+NOTE: external proof anchor candidate — not external proof until pushed to remote (the external timestamp is the push receipt time on the remote, not the local commit time, which is forgeable via git commit --date)

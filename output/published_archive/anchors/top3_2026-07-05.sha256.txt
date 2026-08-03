@@ -1,0 +1,15 @@
+# External proof anchor candidate — Top-3 Picker 2026-07-05
+
+date:              2026-07-05
+archive_timestamp: 2026-07-05 08:06:58 GMT Summer Time (local)
+picks_sha256:      383a1d89d00d918c98d9f5b0548c81bbcf9c6a4f10b7b220649e1540b193b633
+card_sha256:       6a4514e1126669244d090678a9fc1249dadc11ecdb92f6688f65d6139f53ec3b
+archive_path:      C:/Users/benat/OneDrive/Dokumente/Claude/Projects/top3-picker/output/published_archive/top3_2026-07-05.md
+archive_sha256:    bc819e6f5d902db82bb4356c2e5f54ad8bf64899f17019bde74732cff7869894
+generated:         2026-07-07 23:41:03 GMT Summer Time (local)
+
+NOTE: external proof anchor candidate — not external proof until pushed to remote (the external timestamp is the push receipt time on the remote, not the local commit time, which is forgeable via git commit --date)
+
+=== LATE ANCHOR - OPERATOR DISCLAIMER (recorded 2026-07-07) ===
+LATE ANCHOR - pushed 2026-07-07 after racing settled. The report was published pre-race per local timestamp (08:06:58 GMT Summer Time, before that day's first race) but was NOT externally anchored before racing (travel period across 4-5 July; no network path to the GitHub remote). This anchor proves file existence as of the push date only, NOT pre-race publication. 2026-07-05 does NOT count as clean pre-race proof; it is EXCLUDED from the clean pre-race proof record.
+STALE-CARD ARTIFACT: win pick #2 "Tripoli Flyer" (16:50 Southwell) shows jockey "Non Runner" in the published card - a declared runner that came off after the card snapshot was taken (a stale-card artifact). It is a void / non-runner for grading and carries no result. Same honest treatment as the 2026-07-04 late anchor.
