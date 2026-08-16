@@ -1,0 +1,10 @@
+# External proof anchor candidate — Top-3 Picker each-way treble 2026-08-14
+
+date:               2026-08-14
+results_generated:  2026-08-16 08:00:07 GMT Summer Time
+forward_log_sha256: 3cb304b3f584fddb20ef0ab86f9d70981d0a55a2a879a04dc6fe629ad167efa4
+settlement_sha256:  0bc1936121aa22f46d2d66b8a20dd30f68cdb6088f7dd2dc3a253e17d49f21f2
+treble_sha256:      b24e0d0eed1be9eec96117719fbd3df14ae7de23bec88d6803a2797db9a48fba
+generated:          2026-08-16 08:00:07 GMT Summer Time (local)
+
+NOTE: external proof anchor candidate — not external proof until pushed to remote (the external timestamp is the push receipt time on the remote, not the local commit time, which is forgeable via git commit --date)
